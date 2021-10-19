@@ -2,7 +2,6 @@
 
 ## [1.1.2] 2021-10-04
 - Inventory system started
-
 - Starting inventory with 3 weapons created
 
 ## [1.1.3] 2021-10-05
